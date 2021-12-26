@@ -8,15 +8,18 @@ __Important Note:__ This application is a project that has been implemented with
 
 ## Table of Contents
 - [Getting Started](#getting-started)
-	- [Create Proxy](components/proxy/create)
-	- [Create User Group And Users](#installation)
+	- [Create Proxy](components/proxy/)
+	- [Create User Group And Users](components/users-and-groups/)
 	- [Create Host Group](#running-the-app)
-	- [Create Host](#deployment)
+	- [Create Host](component/hosts)
 - [Automate Host Registration](#contributing)
 	- [Create Registration Script](#deployment)
 	- [Create Network Discovery Rule](#deployment)
 - [Alerting](#deployment)
 	- [Create Trigger Action](#deployment)
+- [Generals](#generals)
+	- [Templates](components/templates)
+	- [Macros](components/macros/)
 
 ## Getting Started
 

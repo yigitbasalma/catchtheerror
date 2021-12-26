@@ -1,4 +1,4 @@
-# Create Proxy
+# Proxies
 
 Proxy servers are small servers that you create within your own infrastructure to monitor your systems. The information collected through the hosts you have created is transmitted to Zabbix servers through these servers and processed there.
 
