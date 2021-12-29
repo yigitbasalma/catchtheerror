@@ -19,7 +19,7 @@ __Important Note:__ In order to send data from your proxy server, you need to ma
 
 ![Create New Proxy](images/create-proxy-form.png)
 
-After creation, click the three dots at the top right of the proxy card, then click the "Details" button to get the corresponding proxy configuration.
+After creation, click the three dots at the top right of the proxy card, then click the "Details" button to get the corresponding proxy configuration. The most important part in this configuration is the "hostname" parameter. This parameter has to be exactly the same as the name the system gives you.
 
 ## Adding "IP Whitelist" Records
 
