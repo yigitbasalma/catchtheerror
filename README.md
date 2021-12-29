@@ -8,21 +8,23 @@ __Important Note:__ This application is a project that has been implemented with
 
 ## Table of Contents
 - [Getting Started](#getting-started)
-	- [Create Proxy](components/proxy/)
-	- [Create User Group And Users](components/users-and-groups/)
-	- [Create Host Group](components/host-groups)
-	- [Create Host](components/hosts)
+	- [Proxies](components/proxy)
+	- [Users & Groups](components/users-and-groups)
+	- [Host Groups](components/host-groups)
+	- [Hosts](components/hosts)
+	- [Scripts](components/scripts)
+	- [Macros](components/macros)
 - [Automate Host Registration](#)
-	- [Create Registration Script](#deployment)
-	- [Create Network Discovery Rule](#deployment)
-- [Alerting](#deployment)
-	- [Create Trigger Action](#deployment)
+	- [Network Discovery](components/network-discovery)
+- [Alerts](components/alerts)
+	- [Trigger Actions](components/alerts/trigger-actions)
 - [Generals](#generals)
 	- [Templates](components/templates)
-	- [Macros](components/macros/)
 
 ## Getting Started
 
 To use the application, it is enough to be a member. The monitoring infrastructure has been prepared by making improvements on Zabbix and its frontend. Its representation as a model is as follows.
 
 ![Infrastructure](images/catchtheerror.png)
+
+__Important Note:__ You can add a description to each item in the application. This method will protect you from confusion in an advancing and growing infrastructure.
