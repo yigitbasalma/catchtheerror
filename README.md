@@ -25,6 +25,6 @@ __Important Note:__ This application is a project that has been implemented with
 
 To use the application, it is enough to be a member. The monitoring infrastructure has been prepared by making improvements on Zabbix and its frontend. Its representation as a model is as follows.
 
-![Infrastructure](images/catchtheerror.png)
+![Infrastructure](images/catchtheerror.jpg)
 
 __Important Note:__ You can add a description to each item in the application. This method will protect you from confusion in an advancing and growing infrastructure.
