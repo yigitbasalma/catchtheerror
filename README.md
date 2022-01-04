@@ -14,6 +14,7 @@ __Important Note:__ This application is a project that has been implemented with
 	- [Hosts](components/hosts)
 	- [Scripts](components/scripts)
 	- [Macros](components/macros)
+	- [Maintenances](components/maintenances)
 - [Automate Host Registration](#)
 	- [Network Discovery](components/network-discovery)
 - [Alerts](components/alerts)

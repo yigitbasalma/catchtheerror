@@ -6,7 +6,7 @@ There are two different methods for adding hosts. What will be described here wi
 
 ## Create Host
 
-1. Click the plus sign next to the "Hosts" heading.
+1. Go to "Infra Monitoring > Hosts" and click the plus sign next to the "Hosts" heading.
 
 ![Hosts Page](images/hosts.png)
 

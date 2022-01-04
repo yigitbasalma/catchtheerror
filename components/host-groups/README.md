@@ -4,7 +4,7 @@ Host groups are one of the most important parts of the system. General definitio
 
 ## Create Host Group
 
-1. Click the plus sign next to the "Host Groups" heading.
+1. Go to "Infra Monitoring > Host Groups" and click the plus sign next to the "Host Groups" heading.
 
 ![Host Groups Page](images/host-groups.png)
 
