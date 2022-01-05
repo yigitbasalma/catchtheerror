@@ -26,7 +26,7 @@ We talked about how to get data from the systems we monitor. Now it's time to tu
 
 For example, the trigger definition below will start to warn if the CPU usage of the system stays above the threshold you set for 5 minutes. The parameter that plays a critical role here is the threshold value you will set. If this value is defined correctly, the risk of system interruption is minimized.
 
-__Important Note:__ [Makro](../components/macros) is used for threshold value definition.
+__Important Note:__ [Makro](../macros) is used for threshold value definition.
 
 ```bash
 min(/Linux CPU by Zabbix agent/system.cpu.util,5m)>{$CPU.UTIL.CRIT}
